@@ -1,0 +1,1508 @@
+2012-10-18 11:43:22 Error: [MissingControllerException] Controller class GeoPharmaController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-06 18:03:01 Error: [MissingControllerException] Controller class GeoPharmaController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-15 13:45:53 Error: [MissingControllerException] Controller class GeoPharmaController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-15 13:52:04 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-15 13:52:28 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\GeoPharma\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-15 15:10:35 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\GeoPharma\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-15 16:12:19 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-15 19:16:08 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Users\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-15 20:38:50 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Users\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 13:43:19 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 13:49:34 Error: [MissingTableException] Table pharmacies for model Pharmacie was not found in datasource default.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Model\Model.php(3398): Model->setSource('pharmacies')
+#1 C:\wamp\www\GeoPharma\lib\Cake\Model\Model.php(2653): Model->getDataSource()
+#2 C:\wamp\www\GeoPharma\app\Controller\PharmaciesController.php(11): Model->find('all')
+#3 [internal function]: PharmaciesController->index()
+#4 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PharmaciesController), Array)
+#5 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#9 {main}
+2012-11-20 13:52:42 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 13:54:26 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 13:55:20 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 14:00:02 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:07:53 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:07:57 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:08:12 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:08:40 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:08:42 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:11:00 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:11:15 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:11:44 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 14:12:27 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 14:13:41 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 14:13:44 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 14:14:04 Error: [MissingTableException] Table pharmacis for model Pharmaci was not found in datasource default.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Model\Model.php(3398): Model->setSource('pharmacis')
+#1 C:\wamp\www\GeoPharma\lib\Cake\Model\Model.php(2653): Model->getDataSource()
+#2 C:\wamp\www\GeoPharma\app\Controller\PharmaciesController.php(12): Model->find('all')
+#3 [internal function]: PharmaciesController->index()
+#4 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PharmaciesController), Array)
+#5 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#9 {main}
+2012-11-20 14:14:18 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 14:15:28 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:15:38 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:17:08 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:17:11 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:18:27 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:18:29 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:19:59 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:21:50 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:21:53 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:22:01 Error: [MissingActionException] Action PagesController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:22:07 Error: [MissingActionException] Action PagesController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:25:02 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pages\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 14:25:07 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:25:11 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:25:52 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:25:55 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 14:39:59 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 14:59:29 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 15:12:56 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 15:13:47 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 15:15:49 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 15:19:07 Error: [MissingControllerException] Controller class UserxController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 15:20:56 Error: [MissingActionException] Action UsersController::1() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 15:23:26 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 15:28:17 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 15:36:28 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 15:37:02 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 15:37:24 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 15:38:29 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 15:39:20 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 16:23:59 Error: [MissingActionException] Action UsersController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:24:55 Error: [MissingActionException] Action UsersController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:24:57 Error: [MissingActionException] Action UsersController::logout() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:25:06 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:25:12 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:25:24 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:28:24 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:28:27 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:29:03 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:29:06 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:29:28 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:29:33 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:29:37 Error: [MissingActionException] Action UsersController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:29:44 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:30:18 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:30:23 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:31:58 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:32:02 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:32:29 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 16:32:42 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 17:14:39 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Users\edit.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 18:46:41 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 18:46:51 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-20 18:48:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 18:48:56 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Pharmacies\index.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 18:57:40 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 18:57:44 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Users\edit.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 18:58:04 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 18:58:07 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Users\edit.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 18:59:22 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 18:59:32 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 19:08:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 19:08:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 19:08:59 Error: [MissingViewException] View file "C:\wamp\www\GeoPharma\app\View\Users\edit.ctp" is missing.
+#0 C:\wamp\www\GeoPharma\lib\Cake\View\View.php(460): View->_getViewFileName(NULL)
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-20 19:17:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 19:17:14 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 19:18:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 19:19:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 21:48:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 21:48:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 21:50:32 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 21:51:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 21:51:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 21:51:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 21:51:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 21:51:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-20 21:52:22 Error: [MissingActionException] Action UsersController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-22 11:10:49 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-22 11:12:22 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-22 11:12:54 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-22 11:12:57 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-22 11:13:14 Error: [MissingActionException] Action GeoPharmaController::index() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(GeoPharmaController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-22 11:15:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-22 11:43:31 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-22 11:44:55 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-22 11:55:26 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-22 12:07:15 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-22 12:09:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-22 12:21:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-22 12:24:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-22 12:25:31 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 03:09:53 Error: [MissingControllerException] Controller class PrinceController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 03:09:54 Error: [MissingControllerException] Controller class PrinceController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 03:41:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 03:51:13 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 03:51:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 03:55:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 03:56:00 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 03:58:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 03:58:51 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 03:59:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:01:04 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:01:32 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:02:04 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:02:22 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:03:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:12:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:13:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:13:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:14:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:15:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:16:09 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:16:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:16:48 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: PharmaciesController->delete('3')
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PharmaciesController), Array)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-24 04:19:37 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:19:40 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:19:43 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: PharmaciesController->delete('3')
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PharmaciesController), Array)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-24 04:21:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:21:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:21:19 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:21:23 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: PharmaciesController->delete('3')
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PharmaciesController), Array)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-24 04:21:26 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:21:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:22:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:22:43 Error: [MissingActionException] Action PharmaciesController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-24 04:23:24 Error: [MissingActionException] Action PharmaciesController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-24 04:23:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:23:50 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:23:58 Error: [MissingActionException] Action PharmaciesController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-24 04:24:02 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:24:04 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: PharmaciesController->delete('4')
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PharmaciesController), Array)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-24 04:24:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:25:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:25:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:26:13 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:31:31 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:31:50 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:33:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:34:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:37:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:37:06 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:37:09 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:43:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:47:15 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:47:16 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:47:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:47:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:48:32 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:48:33 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:48:55 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:48:55 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:50:22 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:50:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:51:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:51:09 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:51:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:51:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:53:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:54:51 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:54:51 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:55:51 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:55:51 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:57:12 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:57:13 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:57:33 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:57:33 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:59:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:59:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:59:59 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 04:59:59 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 05:01:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 05:01:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 05:01:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 05:01:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 05:02:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 05:02:12 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 09:40:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 09:40:55 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 09:41:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 09:42:01 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 09:42:04 Error: [MissingActionException] Action UsersController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-24 10:13:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 10:43:27 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 10:44:21 Error: [MissingActionException] Action UsersController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-24 10:53:44 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 10:53:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 10:55:34 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 10:59:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 10:59:58 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 11:01:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 11:01:19 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-24 12:24:06 Error: [MissingActionException] Action UsersController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-28 10:11:12 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 10:15:14 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 10:15:19 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 10:16:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 10:16:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 10:16:47 Error: [MissingActionException] Action PharmaciesController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-28 10:25:40 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 10:30:50 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 12:55:56 Error: [MissingControllerException] Controller class Pharmacie.pngController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 12:55:57 Error: [MissingControllerException] Controller class Pharmacie.pngController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 13:00:12 Error: [MissingControllerException] Controller class Pharmacie.pngController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 13:00:12 Error: [MissingControllerException] Controller class Pharmacie.pngController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:03:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:03:36 Error: [MissingActionException] Action PharmaciesController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-28 14:03:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:03:45 Error: [MissingActionException] Action PharmaciesController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-28 14:03:49 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:03:51 Error: [MissingActionException] Action PharmaciesController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-28 14:12:56 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:13:32 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:13:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:14:34 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:14:38 Error: [MissingActionException] Action PharmaciesController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-28 14:14:43 Error: [NotFoundException] Utilisateur invalide
+#0 [internal function]: PharmaciesController->edit()
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PharmaciesController), Array)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-28 14:14:56 Error: [NotFoundException] Utilisateur invalide
+#0 [internal function]: PharmaciesController->edit()
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PharmaciesController), Array)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-28 14:15:34 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:15:37 Error: [MissingActionException] Action PharmaciesController::images() could not be found.
+#0 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#4 {main}
+2012-11-28 14:15:42 Error: [NotFoundException] Utilisateur invalide
+#0 [internal function]: PharmaciesController->edit()
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PharmaciesController), Array)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-11-28 14:18:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:18:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:19:16 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:19:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:22:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:22:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:23:55 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:24:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:24:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:26:55 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:26:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:27:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:27:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:28:06 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:28:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:28:31 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:28:32 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:37:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:37:31 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:37:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:37:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:38:12 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:38:13 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:40:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:40:40 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:41:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:41:26 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:42:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:42:55 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:42:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:43:44 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:43:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:44:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:44:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:45:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:45:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:46:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:46:19 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:47:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-28 14:48:22 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-29 17:40:04 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-29 17:40:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-29 17:40:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-29 17:40:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-29 17:40:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-29 17:41:00 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-11-29 17:41:02 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-12-06 11:02:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-12-06 11:02:46 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: PharmaciesController->delete('1')
+#1 C:\wamp\www\GeoPharma\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PharmaciesController), Array)
+#2 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\GeoPharma\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PharmaciesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#6 {main}
+2012-12-06 11:02:58 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-12-06 15:31:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-12-06 15:32:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-12-06 15:36:33 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
+2012-12-06 15:44:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\wamp\www\GeoPharma\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\wamp\www\GeoPharma\index.php(40): require('C:\wamp\www\Geo...')
+#2 {main}
