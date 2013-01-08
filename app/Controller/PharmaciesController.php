@@ -1,6 +1,6 @@
 <?php
 /**
-* Controlleur pour gérer toutes les pharmacies
+* Controlleur pour gérer tout les phaermacies
 */
 class PharmaciesController extends AppController
 {
