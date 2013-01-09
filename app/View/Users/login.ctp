@@ -2,7 +2,7 @@
 	<?php echo $this->Session->flash('auth'); ?>
 	<?php echo $this->Form->create('User'); ?>
 	    <fieldset>
-	        <legend><?php echo __('Veuillez vous identifier'); ?></legend>
+	        <legend><?php echo __('Veuillez vous identifier pour accéder à Geopharma'); ?></legend>
 	    <?php
 	        echo $this->Form->input('username');
 	        echo $this->Form->input('password');
