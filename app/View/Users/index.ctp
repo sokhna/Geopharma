@@ -33,7 +33,7 @@
 		<tr>
 			<th>Id</th>
 			<th>User Name</th>
-			<th>role</th>
+			<th>Role</th>
 			<th>Date de création</th>
 			<th>Date de modification</th>
 			<th colspan="2">Actions</th>
